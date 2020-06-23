@@ -6,7 +6,11 @@ function Header() {
     <div>
       <h1>Calorie Finder</h1>
       <h5>The Easiest Way to Find How Many Calories Something Has!</h5>
-      <h5>Powered By Nutritionix API</h5>
+      <img
+        className="logo"
+        src={require("../images/Nutritionix.png")}
+        alt="Powered by Nutritionix API"
+      />
     </div>
   );
 }

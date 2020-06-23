@@ -1,5 +1,13 @@
 h1,
-h5 {
+h5,
+img {
   text-align: center;
   margin: 0px 0px;
+}
+
+.logo {
+  display: block;
+  width: 150px;
+  margin-left: auto;
+  margin-right: auto;
 }
